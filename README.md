@@ -1,5 +1,5 @@
 # ProductREST
-REST CRUD API program to keep track of items in a hardware store </br>
+REST CRUD API program to keep track of products in a hardware store </br>
 What program can do:
 * Get a list of all products using GET request
 * Get a product by id using GET requset
